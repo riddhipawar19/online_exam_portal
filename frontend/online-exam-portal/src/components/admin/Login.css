@@ -1,0 +1,35 @@
+.login{
+    display: flex;
+    background-color:whitesmoke;
+    height:90vh;
+}
+
+.login__data{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    place-items: center;
+    height: 50vh;
+    margin: 12vh 0vh 0vh 30vh;
+    margin-right: 40px;
+    border-radius: 30px;
+    /* border: 1px solid grey; */
+    width: fit-content;
+    padding:60px;
+    background-color: white;
+    box-shadow: 10px 10px 5px rgb(194, 191, 191);
+}
+
+.login > img{
+    margin-top:10vh;
+    height: 70vh;
+}
+
+.login__data > Button{
+    width: 40vh;
+    height:8vh;
+}
+
+.login__data > p{
+    font-weight: 600;
+}

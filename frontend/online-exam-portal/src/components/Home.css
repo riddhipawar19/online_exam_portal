@@ -1,0 +1,16 @@
+.home{
+    background-color: whitesmoke;
+    height:90vh;
+}
+
+.home__data{
+    padding: 32vh 0 0 70vh;
+}
+
+.home__btns{
+    padding: 20px 0 0 80px;
+    width: 18vw;
+    display: flex;
+    justify-content: space-between;
+    place-items: center;
+}

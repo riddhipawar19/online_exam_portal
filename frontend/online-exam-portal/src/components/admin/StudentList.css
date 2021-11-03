@@ -1,0 +1,22 @@
+.student__list{
+    height: 74vh;
+    background-color: whitesmoke;
+    overflow: scroll;
+}
+
+.table__header{
+    background-color: whitesmoke;
+}
+
+.table__cell{
+    font-weight: 800 !important;
+    font-size: 18px !important;
+    border-right: 1px solid rgb(207, 206, 206) !important;
+    place-items: center;
+}
+
+
+.table__cell_item{
+    font-weight: 800 !important;
+    font-size: 16px !important;
+}
